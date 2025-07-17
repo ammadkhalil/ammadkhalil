@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm ammadkhalil 👋
 
 Welcome to my GitHub profile!  
@@ -27,6 +26,14 @@ I'm passionate about building impactful software and collaborating with the open
 - Data Engineering & Data Pipelines
 - Backend System Architecture
 - Unit Testing & Automation
+- Distributed Systems & Scalability
+- API Security & Best Practices
+- Message Brokers (RabbitMQ, Kafka)
+- Caching (Redis, Memcached)
+- Monitoring & Logging (Prometheus, Grafana, ELK, CloudWatch)
+- Containerization (Kubernetes, Docker Swarm)
+- Agile & Team Leadership
+- Code Review & Mentorship
 
 ---
 
@@ -42,11 +49,17 @@ I'm passionate about building impactful software and collaborating with the open
 
 ## 📊 GitHub Stats
 
-![Ammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammadkhalil&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadkhalil&layout=compact)
+| Stat | Description |
+|------|-------------|
+| ![Total Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=totalCommits&url=https://github-readme-stats.vercel.app/api?username=ammadkhalil&show_icons=true) | **Total Commits:** Demonstrates consistency and dedication. |
+| ![Contributions](https://github-readme-streak-stats.herokuapp.com?user=ammadkhalil&theme=default) | **Contribution Streaks:** Maintains an active contribution streak. |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadkhalil&layout=compact) | **Languages Used:** Shows versatility in tech stacks. |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammadkhalil&show_icons=true&theme=default) | **GitHub Overview:** Highlights stars, PRs, issues, and more. |
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=ammadkhalil&theme=flat&row=1) | **Trophies & Achievements:** Recognizes open source impact. |
+| ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ammadkhalil&theme=github) | **Activity Graph:** Visualizes recent coding activity. |
+| ![Followers](https://img.shields.io/github/followers/ammadkhalil?label=Followers&style=social) | **Followers:** Trusted by the developer community. |
 
 ---
 
 Thanks for stopping by! ⭐️  
 Feel free to check out my repositories and connect!
-````
